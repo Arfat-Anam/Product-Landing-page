@@ -20,3 +20,8 @@ This is a **responsive** and **interactive** product landing page built with **H
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/product-landing-page.git
+   📚 License
+This project is licensed under the MIT License.
+
+🤝 Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. All contributions are welcome
