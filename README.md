@@ -23,6 +23,6 @@ This is a **responsive** and **interactive** product landing page built with **H
 ## 📚 License
 This project is licensed under the MIT License.
 
-##🤝 Contributing
+## 🤝 Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. All contributions are welcome
