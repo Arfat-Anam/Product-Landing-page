@@ -1,4 +1,4 @@
-# Product-Landing-page
+
 # SmartTool Product Landing Page
 
 This is a responsive landing page for a fictional product called SmartTool. It includes:
